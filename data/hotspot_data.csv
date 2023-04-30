@@ -1,0 +1,1001 @@
+,x,y,id,name,category
+0,-608,-213,0,Hotspot 0,sugar mill
+1,-78,39,1,Hotspot 1,bricklane
+2,280,-45,2,Hotspot 2,sugar mill
+3,-513,605,3,Hotspot 3,sugar mill
+4,464,-767,4,Hotspot 4,bricklane
+5,809,490,5,Hotspot 5,sugar mill
+6,753,-976,6,Hotspot 6,bricklane
+7,-60,849,7,Hotspot 7,sugar mill
+8,-380,832,8,Hotspot 8,bricklane
+9,-334,719,9,Hotspot 9,sugar mill
+10,967,12,10,Hotspot 10,bricklane
+11,-84,-282,11,Hotspot 11,bricklane
+12,783,-427,12,Hotspot 12,bricklane
+13,35,708,13,Hotspot 13,sugar mill
+14,-636,747,14,Hotspot 14,sugar mill
+15,-211,561,15,Hotspot 15,bricklane
+16,358,-7,16,Hotspot 16,bricklane
+17,698,-75,17,Hotspot 17,bricklane
+18,388,397,18,Hotspot 18,bricklane
+19,945,-365,19,Hotspot 19,sugar mill
+20,967,-592,20,Hotspot 20,bricklane
+21,-38,624,21,Hotspot 21,sugar mill
+22,680,464,22,Hotspot 22,bricklane
+23,-44,-634,23,Hotspot 23,bricklane
+24,-22,-888,24,Hotspot 24,sugar mill
+25,-845,146,25,Hotspot 25,bricklane
+26,-17,-479,26,Hotspot 26,bricklane
+27,393,-394,27,Hotspot 27,sugar mill
+28,132,266,28,Hotspot 28,sugar mill
+29,381,950,29,Hotspot 29,bricklane
+30,639,-308,30,Hotspot 30,sugar mill
+31,-1,-417,31,Hotspot 31,bricklane
+32,-88,921,32,Hotspot 32,sugar mill
+33,116,-494,33,Hotspot 33,bricklane
+34,-632,-999,34,Hotspot 34,bricklane
+35,-150,589,35,Hotspot 35,sugar mill
+36,-593,-123,36,Hotspot 36,sugar mill
+37,-469,927,37,Hotspot 37,bricklane
+38,-216,721,38,Hotspot 38,sugar mill
+39,963,-344,39,Hotspot 39,bricklane
+40,-376,-192,40,Hotspot 40,bricklane
+41,433,330,41,Hotspot 41,bricklane
+42,-39,-705,42,Hotspot 42,bricklane
+43,-562,801,43,Hotspot 43,bricklane
+44,155,-43,44,Hotspot 44,bricklane
+45,-194,417,45,Hotspot 45,bricklane
+46,-204,49,46,Hotspot 46,sugar mill
+47,676,284,47,Hotspot 47,bricklane
+48,803,-558,48,Hotspot 48,sugar mill
+49,884,245,49,Hotspot 49,bricklane
+50,-207,-300,50,Hotspot 50,bricklane
+51,-548,613,51,Hotspot 51,bricklane
+52,99,-620,52,Hotspot 52,bricklane
+53,22,299,53,Hotspot 53,bricklane
+54,233,437,54,Hotspot 54,bricklane
+55,-513,107,55,Hotspot 55,sugar mill
+56,876,-824,56,Hotspot 56,sugar mill
+57,-666,115,57,Hotspot 57,bricklane
+58,-877,-23,58,Hotspot 58,sugar mill
+59,624,-910,59,Hotspot 59,bricklane
+60,-778,-13,60,Hotspot 60,sugar mill
+61,-180,368,61,Hotspot 61,bricklane
+62,-393,-661,62,Hotspot 62,sugar mill
+63,-499,415,63,Hotspot 63,bricklane
+64,992,331,64,Hotspot 64,sugar mill
+65,952,-251,65,Hotspot 65,bricklane
+66,656,909,66,Hotspot 66,bricklane
+67,-860,317,67,Hotspot 67,bricklane
+68,254,240,68,Hotspot 68,bricklane
+69,-973,923,69,Hotspot 69,sugar mill
+70,-864,85,70,Hotspot 70,sugar mill
+71,811,-840,71,Hotspot 71,bricklane
+72,425,37,72,Hotspot 72,bricklane
+73,-280,-352,73,Hotspot 73,bricklane
+74,274,887,74,Hotspot 74,sugar mill
+75,-940,733,75,Hotspot 75,bricklane
+76,-134,587,76,Hotspot 76,sugar mill
+77,752,-774,77,Hotspot 77,sugar mill
+78,188,-576,78,Hotspot 78,bricklane
+79,343,-482,79,Hotspot 79,bricklane
+80,-146,348,80,Hotspot 80,sugar mill
+81,314,-362,81,Hotspot 81,bricklane
+82,519,-908,82,Hotspot 82,sugar mill
+83,-644,-804,83,Hotspot 83,bricklane
+84,-69,529,84,Hotspot 84,sugar mill
+85,-689,724,85,Hotspot 85,bricklane
+86,-695,-981,86,Hotspot 86,sugar mill
+87,616,146,87,Hotspot 87,sugar mill
+88,627,-174,88,Hotspot 88,bricklane
+89,-819,-543,89,Hotspot 89,bricklane
+90,645,-217,90,Hotspot 90,sugar mill
+91,739,615,91,Hotspot 91,bricklane
+92,-12,202,92,Hotspot 92,bricklane
+93,416,282,93,Hotspot 93,sugar mill
+94,-671,353,94,Hotspot 94,bricklane
+95,-349,612,95,Hotspot 95,sugar mill
+96,-622,51,96,Hotspot 96,sugar mill
+97,693,-300,97,Hotspot 97,sugar mill
+98,-359,-833,98,Hotspot 98,sugar mill
+99,-153,-362,99,Hotspot 99,sugar mill
+100,131,918,100,Hotspot 100,sugar mill
+101,905,-891,101,Hotspot 101,sugar mill
+102,18,-483,102,Hotspot 102,bricklane
+103,-258,566,103,Hotspot 103,bricklane
+104,619,817,104,Hotspot 104,sugar mill
+105,-146,775,105,Hotspot 105,sugar mill
+106,601,48,106,Hotspot 106,bricklane
+107,430,-309,107,Hotspot 107,sugar mill
+108,-334,-188,108,Hotspot 108,sugar mill
+109,948,-730,109,Hotspot 109,sugar mill
+110,99,486,110,Hotspot 110,bricklane
+111,84,278,111,Hotspot 111,sugar mill
+112,-441,354,112,Hotspot 112,sugar mill
+113,566,-592,113,Hotspot 113,bricklane
+114,-690,899,114,Hotspot 114,sugar mill
+115,-201,133,115,Hotspot 115,bricklane
+116,416,-947,116,Hotspot 116,sugar mill
+117,837,-992,117,Hotspot 117,bricklane
+118,-593,569,118,Hotspot 118,sugar mill
+119,-903,-241,119,Hotspot 119,sugar mill
+120,-8,-906,120,Hotspot 120,sugar mill
+121,-804,-809,121,Hotspot 121,sugar mill
+122,267,844,122,Hotspot 122,bricklane
+123,-675,-417,123,Hotspot 123,bricklane
+124,-62,-722,124,Hotspot 124,bricklane
+125,-526,234,125,Hotspot 125,sugar mill
+126,-807,-793,126,Hotspot 126,bricklane
+127,958,-397,127,Hotspot 127,sugar mill
+128,-47,-310,128,Hotspot 128,bricklane
+129,767,124,129,Hotspot 129,bricklane
+130,-540,-273,130,Hotspot 130,bricklane
+131,987,-575,131,Hotspot 131,bricklane
+132,-97,-310,132,Hotspot 132,sugar mill
+133,940,-504,133,Hotspot 133,bricklane
+134,430,-718,134,Hotspot 134,bricklane
+135,-267,-801,135,Hotspot 135,bricklane
+136,-647,-663,136,Hotspot 136,bricklane
+137,-87,-437,137,Hotspot 137,sugar mill
+138,-41,879,138,Hotspot 138,sugar mill
+139,-595,27,139,Hotspot 139,sugar mill
+140,-683,-156,140,Hotspot 140,bricklane
+141,-334,-200,141,Hotspot 141,bricklane
+142,-73,-304,142,Hotspot 142,sugar mill
+143,-472,-152,143,Hotspot 143,sugar mill
+144,468,930,144,Hotspot 144,bricklane
+145,748,-371,145,Hotspot 145,sugar mill
+146,43,528,146,Hotspot 146,sugar mill
+147,-968,4,147,Hotspot 147,bricklane
+148,-666,-547,148,Hotspot 148,sugar mill
+149,734,-943,149,Hotspot 149,bricklane
+150,-566,733,150,Hotspot 150,bricklane
+151,-808,273,151,Hotspot 151,bricklane
+152,556,-5,152,Hotspot 152,bricklane
+153,-480,319,153,Hotspot 153,bricklane
+154,450,765,154,Hotspot 154,sugar mill
+155,-19,789,155,Hotspot 155,bricklane
+156,457,397,156,Hotspot 156,sugar mill
+157,557,-973,157,Hotspot 157,sugar mill
+158,-164,141,158,Hotspot 158,sugar mill
+159,279,150,159,Hotspot 159,bricklane
+160,-590,-312,160,Hotspot 160,sugar mill
+161,-558,240,161,Hotspot 161,sugar mill
+162,494,-383,162,Hotspot 162,bricklane
+163,-31,611,163,Hotspot 163,sugar mill
+164,871,910,164,Hotspot 164,sugar mill
+165,454,212,165,Hotspot 165,sugar mill
+166,173,612,166,Hotspot 166,bricklane
+167,-531,536,167,Hotspot 167,bricklane
+168,-461,437,168,Hotspot 168,bricklane
+169,744,960,169,Hotspot 169,sugar mill
+170,-242,-571,170,Hotspot 170,sugar mill
+171,-830,544,171,Hotspot 171,bricklane
+172,-423,-237,172,Hotspot 172,sugar mill
+173,-698,416,173,Hotspot 173,bricklane
+174,257,401,174,Hotspot 174,bricklane
+175,42,901,175,Hotspot 175,bricklane
+176,-722,-160,176,Hotspot 176,bricklane
+177,297,908,177,Hotspot 177,bricklane
+178,335,816,178,Hotspot 178,sugar mill
+179,-775,-454,179,Hotspot 179,bricklane
+180,-304,683,180,Hotspot 180,sugar mill
+181,-791,-311,181,Hotspot 181,sugar mill
+182,-532,929,182,Hotspot 182,bricklane
+183,841,797,183,Hotspot 183,sugar mill
+184,-323,40,184,Hotspot 184,bricklane
+185,-819,-451,185,Hotspot 185,sugar mill
+186,-983,349,186,Hotspot 186,bricklane
+187,239,-736,187,Hotspot 187,bricklane
+188,954,735,188,Hotspot 188,sugar mill
+189,770,-758,189,Hotspot 189,bricklane
+190,983,912,190,Hotspot 190,bricklane
+191,-746,-965,191,Hotspot 191,sugar mill
+192,-4,798,192,Hotspot 192,sugar mill
+193,-466,956,193,Hotspot 193,bricklane
+194,167,-293,194,Hotspot 194,sugar mill
+195,220,-343,195,Hotspot 195,bricklane
+196,902,694,196,Hotspot 196,bricklane
+197,-783,-664,197,Hotspot 197,bricklane
+198,945,480,198,Hotspot 198,sugar mill
+199,548,-745,199,Hotspot 199,bricklane
+200,-319,167,200,Hotspot 200,sugar mill
+201,-714,251,201,Hotspot 201,sugar mill
+202,-764,912,202,Hotspot 202,bricklane
+203,-399,-556,203,Hotspot 203,bricklane
+204,-873,716,204,Hotspot 204,sugar mill
+205,-809,-893,205,Hotspot 205,bricklane
+206,-580,777,206,Hotspot 206,sugar mill
+207,-954,-994,207,Hotspot 207,sugar mill
+208,397,-373,208,Hotspot 208,sugar mill
+209,577,515,209,Hotspot 209,bricklane
+210,39,-479,210,Hotspot 210,bricklane
+211,-444,544,211,Hotspot 211,bricklane
+212,637,720,212,Hotspot 212,bricklane
+213,249,135,213,Hotspot 213,bricklane
+214,-815,-979,214,Hotspot 214,sugar mill
+215,985,492,215,Hotspot 215,bricklane
+216,481,534,216,Hotspot 216,bricklane
+217,-617,460,217,Hotspot 217,sugar mill
+218,275,-502,218,Hotspot 218,bricklane
+219,-63,516,219,Hotspot 219,sugar mill
+220,-932,-690,220,Hotspot 220,sugar mill
+221,-949,637,221,Hotspot 221,sugar mill
+222,-512,634,222,Hotspot 222,bricklane
+223,988,45,223,Hotspot 223,sugar mill
+224,-522,989,224,Hotspot 224,bricklane
+225,-468,-94,225,Hotspot 225,bricklane
+226,780,-694,226,Hotspot 226,sugar mill
+227,-834,-220,227,Hotspot 227,bricklane
+228,-55,-964,228,Hotspot 228,sugar mill
+229,-806,504,229,Hotspot 229,bricklane
+230,-461,-54,230,Hotspot 230,bricklane
+231,342,405,231,Hotspot 231,bricklane
+232,-261,-126,232,Hotspot 232,sugar mill
+233,416,978,233,Hotspot 233,bricklane
+234,621,580,234,Hotspot 234,sugar mill
+235,286,757,235,Hotspot 235,sugar mill
+236,952,840,236,Hotspot 236,sugar mill
+237,-846,765,237,Hotspot 237,bricklane
+238,409,572,238,Hotspot 238,bricklane
+239,-613,-677,239,Hotspot 239,bricklane
+240,-924,-464,240,Hotspot 240,sugar mill
+241,-272,14,241,Hotspot 241,sugar mill
+242,-113,-692,242,Hotspot 242,sugar mill
+243,72,177,243,Hotspot 243,sugar mill
+244,-297,-320,244,Hotspot 244,bricklane
+245,145,-373,245,Hotspot 245,sugar mill
+246,-260,223,246,Hotspot 246,sugar mill
+247,883,-727,247,Hotspot 247,sugar mill
+248,-595,-568,248,Hotspot 248,sugar mill
+249,541,266,249,Hotspot 249,sugar mill
+250,998,-145,250,Hotspot 250,bricklane
+251,907,-352,251,Hotspot 251,bricklane
+252,-779,-822,252,Hotspot 252,bricklane
+253,-814,-567,253,Hotspot 253,sugar mill
+254,79,-407,254,Hotspot 254,bricklane
+255,828,690,255,Hotspot 255,sugar mill
+256,-952,461,256,Hotspot 256,bricklane
+257,-872,867,257,Hotspot 257,bricklane
+258,-349,-298,258,Hotspot 258,bricklane
+259,-912,23,259,Hotspot 259,sugar mill
+260,652,-746,260,Hotspot 260,bricklane
+261,-916,853,261,Hotspot 261,sugar mill
+262,422,-239,262,Hotspot 262,bricklane
+263,681,-869,263,Hotspot 263,bricklane
+264,273,297,264,Hotspot 264,sugar mill
+265,711,-446,265,Hotspot 265,sugar mill
+266,65,219,266,Hotspot 266,bricklane
+267,628,661,267,Hotspot 267,bricklane
+268,941,-209,268,Hotspot 268,sugar mill
+269,157,-493,269,Hotspot 269,bricklane
+270,-352,-250,270,Hotspot 270,bricklane
+271,713,291,271,Hotspot 271,bricklane
+272,-297,736,272,Hotspot 272,sugar mill
+273,-913,295,273,Hotspot 273,sugar mill
+274,-693,-649,274,Hotspot 274,sugar mill
+275,-333,-274,275,Hotspot 275,sugar mill
+276,795,-147,276,Hotspot 276,bricklane
+277,925,437,277,Hotspot 277,bricklane
+278,169,853,278,Hotspot 278,bricklane
+279,-929,-740,279,Hotspot 279,sugar mill
+280,938,-452,280,Hotspot 280,sugar mill
+281,-94,-749,281,Hotspot 281,bricklane
+282,-959,441,282,Hotspot 282,sugar mill
+283,-408,210,283,Hotspot 283,bricklane
+284,349,-151,284,Hotspot 284,bricklane
+285,-12,16,285,Hotspot 285,sugar mill
+286,201,-800,286,Hotspot 286,bricklane
+287,462,-967,287,Hotspot 287,bricklane
+288,93,370,288,Hotspot 288,sugar mill
+289,-956,-803,289,Hotspot 289,sugar mill
+290,-873,-893,290,Hotspot 290,bricklane
+291,868,683,291,Hotspot 291,sugar mill
+292,-609,-624,292,Hotspot 292,bricklane
+293,-7,340,293,Hotspot 293,bricklane
+294,208,-797,294,Hotspot 294,bricklane
+295,-199,973,295,Hotspot 295,sugar mill
+296,188,330,296,Hotspot 296,sugar mill
+297,-993,929,297,Hotspot 297,bricklane
+298,756,-672,298,Hotspot 298,bricklane
+299,-87,672,299,Hotspot 299,bricklane
+300,458,141,300,Hotspot 300,bricklane
+301,731,-65,301,Hotspot 301,bricklane
+302,181,283,302,Hotspot 302,bricklane
+303,-203,-843,303,Hotspot 303,bricklane
+304,-925,544,304,Hotspot 304,bricklane
+305,-32,961,305,Hotspot 305,bricklane
+306,-865,447,306,Hotspot 306,bricklane
+307,714,647,307,Hotspot 307,bricklane
+308,-405,744,308,Hotspot 308,sugar mill
+309,-329,307,309,Hotspot 309,bricklane
+310,997,-139,310,Hotspot 310,sugar mill
+311,891,-741,311,Hotspot 311,bricklane
+312,-540,-403,312,Hotspot 312,bricklane
+313,738,904,313,Hotspot 313,bricklane
+314,-490,-295,314,Hotspot 314,sugar mill
+315,620,940,315,Hotspot 315,bricklane
+316,80,-821,316,Hotspot 316,sugar mill
+317,-652,3,317,Hotspot 317,bricklane
+318,387,929,318,Hotspot 318,sugar mill
+319,225,444,319,Hotspot 319,bricklane
+320,292,-377,320,Hotspot 320,sugar mill
+321,-553,738,321,Hotspot 321,bricklane
+322,-181,489,322,Hotspot 322,sugar mill
+323,-925,831,323,Hotspot 323,sugar mill
+324,-163,695,324,Hotspot 324,bricklane
+325,34,-368,325,Hotspot 325,bricklane
+326,-673,-840,326,Hotspot 326,bricklane
+327,-586,138,327,Hotspot 327,sugar mill
+328,56,222,328,Hotspot 328,sugar mill
+329,235,-790,329,Hotspot 329,sugar mill
+330,-42,811,330,Hotspot 330,sugar mill
+331,402,-992,331,Hotspot 331,sugar mill
+332,-748,-51,332,Hotspot 332,bricklane
+333,431,989,333,Hotspot 333,sugar mill
+334,-931,-521,334,Hotspot 334,bricklane
+335,486,-32,335,Hotspot 335,sugar mill
+336,186,57,336,Hotspot 336,sugar mill
+337,149,-142,337,Hotspot 337,sugar mill
+338,-535,-977,338,Hotspot 338,bricklane
+339,350,-116,339,Hotspot 339,bricklane
+340,-33,-724,340,Hotspot 340,bricklane
+341,-926,259,341,Hotspot 341,bricklane
+342,-820,498,342,Hotspot 342,bricklane
+343,-577,-321,343,Hotspot 343,sugar mill
+344,-750,71,344,Hotspot 344,sugar mill
+345,-124,412,345,Hotspot 345,sugar mill
+346,438,494,346,Hotspot 346,sugar mill
+347,100,-951,347,Hotspot 347,bricklane
+348,-826,-762,348,Hotspot 348,bricklane
+349,81,-499,349,Hotspot 349,bricklane
+350,-65,-379,350,Hotspot 350,sugar mill
+351,41,322,351,Hotspot 351,sugar mill
+352,-993,475,352,Hotspot 352,bricklane
+353,840,-488,353,Hotspot 353,sugar mill
+354,-344,660,354,Hotspot 354,sugar mill
+355,999,-598,355,Hotspot 355,bricklane
+356,-263,-43,356,Hotspot 356,sugar mill
+357,-96,-285,357,Hotspot 357,sugar mill
+358,-968,37,358,Hotspot 358,sugar mill
+359,-925,144,359,Hotspot 359,bricklane
+360,-10,-886,360,Hotspot 360,bricklane
+361,-936,-279,361,Hotspot 361,bricklane
+362,137,757,362,Hotspot 362,sugar mill
+363,-58,234,363,Hotspot 363,sugar mill
+364,120,150,364,Hotspot 364,sugar mill
+365,964,-373,365,Hotspot 365,sugar mill
+366,755,-995,366,Hotspot 366,sugar mill
+367,-369,9,367,Hotspot 367,bricklane
+368,637,-301,368,Hotspot 368,sugar mill
+369,333,-614,369,Hotspot 369,sugar mill
+370,19,-315,370,Hotspot 370,sugar mill
+371,-579,-772,371,Hotspot 371,sugar mill
+372,990,-41,372,Hotspot 372,bricklane
+373,-903,-629,373,Hotspot 373,sugar mill
+374,-208,-778,374,Hotspot 374,bricklane
+375,-843,509,375,Hotspot 375,sugar mill
+376,-77,-761,376,Hotspot 376,bricklane
+377,338,-931,377,Hotspot 377,sugar mill
+378,-656,279,378,Hotspot 378,sugar mill
+379,-552,-657,379,Hotspot 379,bricklane
+380,-930,-29,380,Hotspot 380,bricklane
+381,-59,885,381,Hotspot 381,sugar mill
+382,-38,193,382,Hotspot 382,sugar mill
+383,-553,-587,383,Hotspot 383,sugar mill
+384,668,-602,384,Hotspot 384,sugar mill
+385,23,908,385,Hotspot 385,sugar mill
+386,-436,813,386,Hotspot 386,sugar mill
+387,-97,526,387,Hotspot 387,sugar mill
+388,676,-427,388,Hotspot 388,bricklane
+389,-355,-211,389,Hotspot 389,bricklane
+390,669,-367,390,Hotspot 390,bricklane
+391,295,316,391,Hotspot 391,sugar mill
+392,-726,-768,392,Hotspot 392,bricklane
+393,-571,-651,393,Hotspot 393,sugar mill
+394,485,327,394,Hotspot 394,sugar mill
+395,-525,-422,395,Hotspot 395,sugar mill
+396,674,668,396,Hotspot 396,sugar mill
+397,-635,48,397,Hotspot 397,sugar mill
+398,-930,86,398,Hotspot 398,bricklane
+399,330,-319,399,Hotspot 399,sugar mill
+400,-743,-842,400,Hotspot 400,bricklane
+401,-286,408,401,Hotspot 401,sugar mill
+402,-374,670,402,Hotspot 402,sugar mill
+403,260,-239,403,Hotspot 403,sugar mill
+404,-121,-581,404,Hotspot 404,bricklane
+405,602,196,405,Hotspot 405,sugar mill
+406,-316,4,406,Hotspot 406,sugar mill
+407,-989,-906,407,Hotspot 407,sugar mill
+408,-873,255,408,Hotspot 408,sugar mill
+409,632,658,409,Hotspot 409,sugar mill
+410,754,597,410,Hotspot 410,sugar mill
+411,-620,966,411,Hotspot 411,bricklane
+412,-744,-50,412,Hotspot 412,bricklane
+413,774,-308,413,Hotspot 413,sugar mill
+414,-466,-834,414,Hotspot 414,bricklane
+415,-346,-413,415,Hotspot 415,sugar mill
+416,-776,-221,416,Hotspot 416,bricklane
+417,-544,-132,417,Hotspot 417,bricklane
+418,-918,12,418,Hotspot 418,bricklane
+419,-46,260,419,Hotspot 419,bricklane
+420,434,-942,420,Hotspot 420,sugar mill
+421,386,245,421,Hotspot 421,bricklane
+422,-109,579,422,Hotspot 422,bricklane
+423,879,-658,423,Hotspot 423,bricklane
+424,744,760,424,Hotspot 424,bricklane
+425,750,-821,425,Hotspot 425,bricklane
+426,-47,361,426,Hotspot 426,bricklane
+427,-898,681,427,Hotspot 427,bricklane
+428,2,-568,428,Hotspot 428,bricklane
+429,152,208,429,Hotspot 429,bricklane
+430,661,49,430,Hotspot 430,bricklane
+431,-962,-592,431,Hotspot 431,sugar mill
+432,964,789,432,Hotspot 432,sugar mill
+433,-154,738,433,Hotspot 433,sugar mill
+434,-891,691,434,Hotspot 434,sugar mill
+435,233,906,435,Hotspot 435,bricklane
+436,814,-292,436,Hotspot 436,bricklane
+437,20,891,437,Hotspot 437,bricklane
+438,-590,374,438,Hotspot 438,sugar mill
+439,105,-970,439,Hotspot 439,sugar mill
+440,454,-266,440,Hotspot 440,sugar mill
+441,-334,755,441,Hotspot 441,bricklane
+442,879,-926,442,Hotspot 442,bricklane
+443,-605,-462,443,Hotspot 443,bricklane
+444,465,-472,444,Hotspot 444,bricklane
+445,-468,-988,445,Hotspot 445,sugar mill
+446,883,-166,446,Hotspot 446,sugar mill
+447,294,-682,447,Hotspot 447,bricklane
+448,556,-645,448,Hotspot 448,bricklane
+449,713,-251,449,Hotspot 449,bricklane
+450,180,-348,450,Hotspot 450,bricklane
+451,282,-639,451,Hotspot 451,bricklane
+452,-654,442,452,Hotspot 452,bricklane
+453,-561,-218,453,Hotspot 453,bricklane
+454,-532,-398,454,Hotspot 454,bricklane
+455,-706,706,455,Hotspot 455,sugar mill
+456,-269,-21,456,Hotspot 456,sugar mill
+457,-129,752,457,Hotspot 457,sugar mill
+458,721,-119,458,Hotspot 458,bricklane
+459,574,445,459,Hotspot 459,sugar mill
+460,157,722,460,Hotspot 460,bricklane
+461,267,819,461,Hotspot 461,sugar mill
+462,967,-883,462,Hotspot 462,sugar mill
+463,-757,-456,463,Hotspot 463,bricklane
+464,-924,-520,464,Hotspot 464,bricklane
+465,34,-776,465,Hotspot 465,sugar mill
+466,-884,426,466,Hotspot 466,bricklane
+467,312,-794,467,Hotspot 467,sugar mill
+468,-257,-427,468,Hotspot 468,sugar mill
+469,-918,-784,469,Hotspot 469,sugar mill
+470,578,617,470,Hotspot 470,bricklane
+471,69,-754,471,Hotspot 471,bricklane
+472,302,-816,472,Hotspot 472,bricklane
+473,519,-233,473,Hotspot 473,bricklane
+474,-413,-10,474,Hotspot 474,bricklane
+475,-688,856,475,Hotspot 475,sugar mill
+476,145,-234,476,Hotspot 476,sugar mill
+477,-976,946,477,Hotspot 477,bricklane
+478,-707,46,478,Hotspot 478,sugar mill
+479,4,-530,479,Hotspot 479,sugar mill
+480,717,688,480,Hotspot 480,sugar mill
+481,-585,-83,481,Hotspot 481,sugar mill
+482,-188,-847,482,Hotspot 482,sugar mill
+483,836,339,483,Hotspot 483,sugar mill
+484,454,145,484,Hotspot 484,sugar mill
+485,763,-502,485,Hotspot 485,sugar mill
+486,-316,571,486,Hotspot 486,bricklane
+487,-263,380,487,Hotspot 487,sugar mill
+488,-809,324,488,Hotspot 488,bricklane
+489,562,-266,489,Hotspot 489,bricklane
+490,271,801,490,Hotspot 490,sugar mill
+491,-552,-745,491,Hotspot 491,sugar mill
+492,-603,966,492,Hotspot 492,bricklane
+493,-569,-537,493,Hotspot 493,sugar mill
+494,-474,-779,494,Hotspot 494,sugar mill
+495,-356,-203,495,Hotspot 495,sugar mill
+496,-468,-745,496,Hotspot 496,sugar mill
+497,251,-234,497,Hotspot 497,sugar mill
+498,-304,94,498,Hotspot 498,bricklane
+499,-553,-676,499,Hotspot 499,bricklane
+500,314,927,500,Hotspot 500,sugar mill
+501,-444,-190,501,Hotspot 501,bricklane
+502,-304,262,502,Hotspot 502,bricklane
+503,-452,719,503,Hotspot 503,sugar mill
+504,648,-148,504,Hotspot 504,sugar mill
+505,-887,148,505,Hotspot 505,bricklane
+506,-439,94,506,Hotspot 506,bricklane
+507,-351,190,507,Hotspot 507,bricklane
+508,-317,-651,508,Hotspot 508,bricklane
+509,623,626,509,Hotspot 509,bricklane
+510,-434,-150,510,Hotspot 510,sugar mill
+511,382,655,511,Hotspot 511,bricklane
+512,93,538,512,Hotspot 512,bricklane
+513,-530,475,513,Hotspot 513,bricklane
+514,423,447,514,Hotspot 514,bricklane
+515,248,499,515,Hotspot 515,sugar mill
+516,-236,577,516,Hotspot 516,sugar mill
+517,469,396,517,Hotspot 517,sugar mill
+518,-573,-855,518,Hotspot 518,sugar mill
+519,-12,-357,519,Hotspot 519,sugar mill
+520,561,-942,520,Hotspot 520,sugar mill
+521,-887,-904,521,Hotspot 521,sugar mill
+522,-873,642,522,Hotspot 522,bricklane
+523,-751,605,523,Hotspot 523,sugar mill
+524,549,631,524,Hotspot 524,sugar mill
+525,192,-778,525,Hotspot 525,bricklane
+526,911,-201,526,Hotspot 526,bricklane
+527,801,724,527,Hotspot 527,bricklane
+528,-964,884,528,Hotspot 528,bricklane
+529,797,-982,529,Hotspot 529,bricklane
+530,-625,-610,530,Hotspot 530,sugar mill
+531,-590,-850,531,Hotspot 531,bricklane
+532,-823,-223,532,Hotspot 532,sugar mill
+533,384,-667,533,Hotspot 533,bricklane
+534,10,-787,534,Hotspot 534,bricklane
+535,-590,487,535,Hotspot 535,sugar mill
+536,-928,-153,536,Hotspot 536,sugar mill
+537,484,-150,537,Hotspot 537,sugar mill
+538,56,679,538,Hotspot 538,sugar mill
+539,98,-508,539,Hotspot 539,sugar mill
+540,603,-773,540,Hotspot 540,sugar mill
+541,409,-238,541,Hotspot 541,bricklane
+542,-802,-198,542,Hotspot 542,sugar mill
+543,-786,-549,543,Hotspot 543,bricklane
+544,-570,-571,544,Hotspot 544,bricklane
+545,729,303,545,Hotspot 545,sugar mill
+546,188,781,546,Hotspot 546,bricklane
+547,-37,-86,547,Hotspot 547,sugar mill
+548,319,-947,548,Hotspot 548,bricklane
+549,368,924,549,Hotspot 549,bricklane
+550,-717,-189,550,Hotspot 550,sugar mill
+551,251,-546,551,Hotspot 551,bricklane
+552,628,534,552,Hotspot 552,bricklane
+553,973,947,553,Hotspot 553,bricklane
+554,985,-140,554,Hotspot 554,sugar mill
+555,-781,-729,555,Hotspot 555,sugar mill
+556,-748,839,556,Hotspot 556,bricklane
+557,792,-369,557,Hotspot 557,sugar mill
+558,-841,-542,558,Hotspot 558,sugar mill
+559,-378,-820,559,Hotspot 559,sugar mill
+560,841,-735,560,Hotspot 560,bricklane
+561,-87,-545,561,Hotspot 561,bricklane
+562,-505,-866,562,Hotspot 562,bricklane
+563,871,95,563,Hotspot 563,bricklane
+564,-130,378,564,Hotspot 564,bricklane
+565,117,390,565,Hotspot 565,sugar mill
+566,-794,-569,566,Hotspot 566,sugar mill
+567,895,-615,567,Hotspot 567,sugar mill
+568,-356,-468,568,Hotspot 568,sugar mill
+569,51,490,569,Hotspot 569,bricklane
+570,416,253,570,Hotspot 570,sugar mill
+571,-296,403,571,Hotspot 571,bricklane
+572,-931,-385,572,Hotspot 572,sugar mill
+573,320,743,573,Hotspot 573,sugar mill
+574,180,-916,574,Hotspot 574,bricklane
+575,605,-375,575,Hotspot 575,bricklane
+576,-309,137,576,Hotspot 576,bricklane
+577,-692,511,577,Hotspot 577,bricklane
+578,826,-458,578,Hotspot 578,bricklane
+579,835,780,579,Hotspot 579,bricklane
+580,666,-972,580,Hotspot 580,sugar mill
+581,-203,-777,581,Hotspot 581,bricklane
+582,738,96,582,Hotspot 582,sugar mill
+583,450,-819,583,Hotspot 583,sugar mill
+584,419,-159,584,Hotspot 584,bricklane
+585,610,-597,585,Hotspot 585,bricklane
+586,-887,277,586,Hotspot 586,sugar mill
+587,-387,222,587,Hotspot 587,sugar mill
+588,-611,-635,588,Hotspot 588,sugar mill
+589,247,-518,589,Hotspot 589,sugar mill
+590,-668,976,590,Hotspot 590,sugar mill
+591,863,-706,591,Hotspot 591,sugar mill
+592,63,323,592,Hotspot 592,bricklane
+593,677,133,593,Hotspot 593,bricklane
+594,-905,812,594,Hotspot 594,sugar mill
+595,305,-479,595,Hotspot 595,bricklane
+596,-784,-749,596,Hotspot 596,bricklane
+597,324,553,597,Hotspot 597,sugar mill
+598,711,-537,598,Hotspot 598,sugar mill
+599,100,-990,599,Hotspot 599,bricklane
+600,614,477,600,Hotspot 600,bricklane
+601,451,247,601,Hotspot 601,sugar mill
+602,-952,-35,602,Hotspot 602,sugar mill
+603,812,-18,603,Hotspot 603,sugar mill
+604,-682,-213,604,Hotspot 604,bricklane
+605,257,-688,605,Hotspot 605,sugar mill
+606,-236,-248,606,Hotspot 606,sugar mill
+607,-676,123,607,Hotspot 607,bricklane
+608,-987,488,608,Hotspot 608,bricklane
+609,222,596,609,Hotspot 609,sugar mill
+610,-973,-244,610,Hotspot 610,sugar mill
+611,511,499,611,Hotspot 611,bricklane
+612,-751,-332,612,Hotspot 612,sugar mill
+613,36,-137,613,Hotspot 613,sugar mill
+614,342,-4,614,Hotspot 614,bricklane
+615,933,709,615,Hotspot 615,bricklane
+616,29,-23,616,Hotspot 616,sugar mill
+617,173,654,617,Hotspot 617,bricklane
+618,-792,-305,618,Hotspot 618,bricklane
+619,810,-417,619,Hotspot 619,bricklane
+620,572,-121,620,Hotspot 620,bricklane
+621,-396,211,621,Hotspot 621,bricklane
+622,380,536,622,Hotspot 622,sugar mill
+623,363,729,623,Hotspot 623,sugar mill
+624,-621,577,624,Hotspot 624,sugar mill
+625,235,-154,625,Hotspot 625,sugar mill
+626,624,-369,626,Hotspot 626,bricklane
+627,507,-442,627,Hotspot 627,bricklane
+628,508,-712,628,Hotspot 628,bricklane
+629,-933,487,629,Hotspot 629,bricklane
+630,-438,-424,630,Hotspot 630,bricklane
+631,-335,525,631,Hotspot 631,bricklane
+632,564,-690,632,Hotspot 632,bricklane
+633,-959,639,633,Hotspot 633,sugar mill
+634,-591,-727,634,Hotspot 634,sugar mill
+635,323,-228,635,Hotspot 635,bricklane
+636,-796,-292,636,Hotspot 636,sugar mill
+637,626,-660,637,Hotspot 637,sugar mill
+638,-175,711,638,Hotspot 638,sugar mill
+639,-698,327,639,Hotspot 639,bricklane
+640,550,-377,640,Hotspot 640,sugar mill
+641,872,-431,641,Hotspot 641,bricklane
+642,779,-139,642,Hotspot 642,bricklane
+643,-881,-812,643,Hotspot 643,sugar mill
+644,-334,664,644,Hotspot 644,sugar mill
+645,433,633,645,Hotspot 645,sugar mill
+646,425,-938,646,Hotspot 646,bricklane
+647,-98,69,647,Hotspot 647,sugar mill
+648,-832,-611,648,Hotspot 648,bricklane
+649,-278,-544,649,Hotspot 649,sugar mill
+650,314,-915,650,Hotspot 650,sugar mill
+651,-955,732,651,Hotspot 651,bricklane
+652,405,536,652,Hotspot 652,bricklane
+653,-320,-754,653,Hotspot 653,bricklane
+654,72,321,654,Hotspot 654,bricklane
+655,-858,704,655,Hotspot 655,bricklane
+656,-618,-24,656,Hotspot 656,bricklane
+657,-91,450,657,Hotspot 657,bricklane
+658,735,608,658,Hotspot 658,bricklane
+659,-579,308,659,Hotspot 659,bricklane
+660,-255,254,660,Hotspot 660,bricklane
+661,599,870,661,Hotspot 661,bricklane
+662,-994,-965,662,Hotspot 662,bricklane
+663,162,-65,663,Hotspot 663,sugar mill
+664,358,798,664,Hotspot 664,sugar mill
+665,-521,659,665,Hotspot 665,sugar mill
+666,487,-640,666,Hotspot 666,bricklane
+667,-72,768,667,Hotspot 667,sugar mill
+668,-825,596,668,Hotspot 668,bricklane
+669,158,635,669,Hotspot 669,sugar mill
+670,-846,790,670,Hotspot 670,bricklane
+671,234,182,671,Hotspot 671,sugar mill
+672,-9,-107,672,Hotspot 672,sugar mill
+673,682,-630,673,Hotspot 673,sugar mill
+674,-322,471,674,Hotspot 674,sugar mill
+675,113,711,675,Hotspot 675,bricklane
+676,-918,-613,676,Hotspot 676,bricklane
+677,-498,954,677,Hotspot 677,sugar mill
+678,-602,-359,678,Hotspot 678,bricklane
+679,494,-230,679,Hotspot 679,bricklane
+680,-832,-50,680,Hotspot 680,sugar mill
+681,-869,439,681,Hotspot 681,sugar mill
+682,589,16,682,Hotspot 682,bricklane
+683,-321,-661,683,Hotspot 683,bricklane
+684,-160,770,684,Hotspot 684,bricklane
+685,-158,978,685,Hotspot 685,bricklane
+686,-696,-607,686,Hotspot 686,sugar mill
+687,-224,803,687,Hotspot 687,bricklane
+688,434,-346,688,Hotspot 688,bricklane
+689,-569,237,689,Hotspot 689,bricklane
+690,293,-228,690,Hotspot 690,bricklane
+691,-462,-561,691,Hotspot 691,bricklane
+692,-981,-182,692,Hotspot 692,sugar mill
+693,-270,-323,693,Hotspot 693,sugar mill
+694,-190,-229,694,Hotspot 694,bricklane
+695,-327,356,695,Hotspot 695,sugar mill
+696,-80,-418,696,Hotspot 696,sugar mill
+697,-819,492,697,Hotspot 697,bricklane
+698,-444,275,698,Hotspot 698,bricklane
+699,950,-995,699,Hotspot 699,bricklane
+700,478,598,700,Hotspot 700,sugar mill
+701,670,-228,701,Hotspot 701,sugar mill
+702,-744,804,702,Hotspot 702,sugar mill
+703,-759,-678,703,Hotspot 703,sugar mill
+704,-447,365,704,Hotspot 704,sugar mill
+705,797,-654,705,Hotspot 705,sugar mill
+706,-830,-135,706,Hotspot 706,sugar mill
+707,-928,-854,707,Hotspot 707,bricklane
+708,-395,241,708,Hotspot 708,sugar mill
+709,998,510,709,Hotspot 709,sugar mill
+710,148,316,710,Hotspot 710,bricklane
+711,-987,397,711,Hotspot 711,sugar mill
+712,51,713,712,Hotspot 712,sugar mill
+713,-664,-293,713,Hotspot 713,sugar mill
+714,856,346,714,Hotspot 714,sugar mill
+715,564,542,715,Hotspot 715,sugar mill
+716,148,-33,716,Hotspot 716,bricklane
+717,642,730,717,Hotspot 717,sugar mill
+718,547,403,718,Hotspot 718,sugar mill
+719,252,-188,719,Hotspot 719,bricklane
+720,428,780,720,Hotspot 720,sugar mill
+721,821,-676,721,Hotspot 721,bricklane
+722,238,109,722,Hotspot 722,bricklane
+723,610,-664,723,Hotspot 723,sugar mill
+724,360,-655,724,Hotspot 724,sugar mill
+725,-206,-762,725,Hotspot 725,sugar mill
+726,-727,459,726,Hotspot 726,sugar mill
+727,-630,-919,727,Hotspot 727,bricklane
+728,287,190,728,Hotspot 728,sugar mill
+729,452,-907,729,Hotspot 729,bricklane
+730,472,-20,730,Hotspot 730,sugar mill
+731,424,-698,731,Hotspot 731,sugar mill
+732,493,-174,732,Hotspot 732,bricklane
+733,-591,814,733,Hotspot 733,bricklane
+734,-35,-642,734,Hotspot 734,bricklane
+735,-697,-109,735,Hotspot 735,bricklane
+736,35,133,736,Hotspot 736,bricklane
+737,-478,426,737,Hotspot 737,sugar mill
+738,718,-407,738,Hotspot 738,sugar mill
+739,-386,772,739,Hotspot 739,bricklane
+740,207,-163,740,Hotspot 740,sugar mill
+741,-665,498,741,Hotspot 741,sugar mill
+742,-596,-130,742,Hotspot 742,bricklane
+743,-565,-569,743,Hotspot 743,sugar mill
+744,-610,-800,744,Hotspot 744,sugar mill
+745,-653,-460,745,Hotspot 745,sugar mill
+746,373,958,746,Hotspot 746,bricklane
+747,-231,-323,747,Hotspot 747,bricklane
+748,-789,-949,748,Hotspot 748,sugar mill
+749,224,558,749,Hotspot 749,sugar mill
+750,657,934,750,Hotspot 750,sugar mill
+751,-685,807,751,Hotspot 751,sugar mill
+752,-171,220,752,Hotspot 752,sugar mill
+753,8,320,753,Hotspot 753,bricklane
+754,804,-873,754,Hotspot 754,bricklane
+755,291,606,755,Hotspot 755,sugar mill
+756,-292,810,756,Hotspot 756,sugar mill
+757,116,-424,757,Hotspot 757,bricklane
+758,390,688,758,Hotspot 758,sugar mill
+759,144,-793,759,Hotspot 759,bricklane
+760,847,26,760,Hotspot 760,bricklane
+761,25,593,761,Hotspot 761,sugar mill
+762,-869,-367,762,Hotspot 762,bricklane
+763,-227,-639,763,Hotspot 763,sugar mill
+764,-941,-434,764,Hotspot 764,sugar mill
+765,728,113,765,Hotspot 765,sugar mill
+766,-702,-422,766,Hotspot 766,sugar mill
+767,-566,284,767,Hotspot 767,sugar mill
+768,-434,-658,768,Hotspot 768,sugar mill
+769,-847,943,769,Hotspot 769,bricklane
+770,-951,-149,770,Hotspot 770,bricklane
+771,576,-571,771,Hotspot 771,bricklane
+772,-768,-901,772,Hotspot 772,bricklane
+773,-351,755,773,Hotspot 773,sugar mill
+774,-19,-662,774,Hotspot 774,sugar mill
+775,-72,403,775,Hotspot 775,sugar mill
+776,839,-215,776,Hotspot 776,sugar mill
+777,-271,-836,777,Hotspot 777,sugar mill
+778,594,-540,778,Hotspot 778,sugar mill
+779,-985,855,779,Hotspot 779,sugar mill
+780,875,-313,780,Hotspot 780,sugar mill
+781,829,950,781,Hotspot 781,sugar mill
+782,-256,927,782,Hotspot 782,sugar mill
+783,798,897,783,Hotspot 783,sugar mill
+784,305,46,784,Hotspot 784,sugar mill
+785,309,-651,785,Hotspot 785,bricklane
+786,517,893,786,Hotspot 786,bricklane
+787,351,122,787,Hotspot 787,sugar mill
+788,567,425,788,Hotspot 788,bricklane
+789,-68,-413,789,Hotspot 789,sugar mill
+790,-727,899,790,Hotspot 790,bricklane
+791,31,-657,791,Hotspot 791,bricklane
+792,-531,-704,792,Hotspot 792,bricklane
+793,679,504,793,Hotspot 793,sugar mill
+794,-58,966,794,Hotspot 794,sugar mill
+795,-296,51,795,Hotspot 795,bricklane
+796,271,-268,796,Hotspot 796,sugar mill
+797,-57,80,797,Hotspot 797,bricklane
+798,650,-347,798,Hotspot 798,bricklane
+799,-105,909,799,Hotspot 799,sugar mill
+800,986,-991,800,Hotspot 800,bricklane
+801,319,488,801,Hotspot 801,bricklane
+802,225,263,802,Hotspot 802,bricklane
+803,-633,-860,803,Hotspot 803,sugar mill
+804,-431,179,804,Hotspot 804,bricklane
+805,-576,792,805,Hotspot 805,sugar mill
+806,-435,754,806,Hotspot 806,sugar mill
+807,-966,-836,807,Hotspot 807,bricklane
+808,-609,973,808,Hotspot 808,bricklane
+809,-969,739,809,Hotspot 809,bricklane
+810,-930,-262,810,Hotspot 810,sugar mill
+811,-560,-177,811,Hotspot 811,sugar mill
+812,-919,648,812,Hotspot 812,sugar mill
+813,-870,377,813,Hotspot 813,sugar mill
+814,97,487,814,Hotspot 814,sugar mill
+815,441,182,815,Hotspot 815,sugar mill
+816,-237,461,816,Hotspot 816,sugar mill
+817,404,136,817,Hotspot 817,bricklane
+818,-481,972,818,Hotspot 818,sugar mill
+819,-196,-278,819,Hotspot 819,bricklane
+820,691,71,820,Hotspot 820,bricklane
+821,334,278,821,Hotspot 821,bricklane
+822,-545,-669,822,Hotspot 822,sugar mill
+823,547,-199,823,Hotspot 823,sugar mill
+824,539,341,824,Hotspot 824,sugar mill
+825,-541,-570,825,Hotspot 825,bricklane
+826,-583,596,826,Hotspot 826,sugar mill
+827,330,-105,827,Hotspot 827,bricklane
+828,-357,293,828,Hotspot 828,sugar mill
+829,126,808,829,Hotspot 829,bricklane
+830,314,-925,830,Hotspot 830,bricklane
+831,-561,346,831,Hotspot 831,sugar mill
+832,206,853,832,Hotspot 832,bricklane
+833,-823,-499,833,Hotspot 833,sugar mill
+834,802,-975,834,Hotspot 834,sugar mill
+835,529,846,835,Hotspot 835,bricklane
+836,220,-601,836,Hotspot 836,sugar mill
+837,-714,511,837,Hotspot 837,sugar mill
+838,784,-332,838,Hotspot 838,sugar mill
+839,-900,-938,839,Hotspot 839,bricklane
+840,-620,-362,840,Hotspot 840,sugar mill
+841,-72,-246,841,Hotspot 841,bricklane
+842,-717,-359,842,Hotspot 842,sugar mill
+843,-508,-588,843,Hotspot 843,bricklane
+844,505,-180,844,Hotspot 844,bricklane
+845,-764,-686,845,Hotspot 845,bricklane
+846,762,615,846,Hotspot 846,bricklane
+847,-399,-493,847,Hotspot 847,bricklane
+848,575,-144,848,Hotspot 848,sugar mill
+849,-153,-357,849,Hotspot 849,bricklane
+850,27,-397,850,Hotspot 850,bricklane
+851,-173,118,851,Hotspot 851,bricklane
+852,-402,-896,852,Hotspot 852,sugar mill
+853,280,-285,853,Hotspot 853,sugar mill
+854,69,-65,854,Hotspot 854,sugar mill
+855,121,441,855,Hotspot 855,bricklane
+856,214,855,856,Hotspot 856,sugar mill
+857,917,980,857,Hotspot 857,sugar mill
+858,-763,94,858,Hotspot 858,sugar mill
+859,487,-222,859,Hotspot 859,sugar mill
+860,-498,-359,860,Hotspot 860,sugar mill
+861,-608,-484,861,Hotspot 861,bricklane
+862,340,-169,862,Hotspot 862,sugar mill
+863,-471,827,863,Hotspot 863,sugar mill
+864,-483,305,864,Hotspot 864,bricklane
+865,-141,-124,865,Hotspot 865,bricklane
+866,514,718,866,Hotspot 866,bricklane
+867,563,-977,867,Hotspot 867,bricklane
+868,-374,941,868,Hotspot 868,bricklane
+869,-996,-394,869,Hotspot 869,bricklane
+870,537,-384,870,Hotspot 870,sugar mill
+871,341,-224,871,Hotspot 871,bricklane
+872,-52,-743,872,Hotspot 872,bricklane
+873,-505,627,873,Hotspot 873,bricklane
+874,-361,-499,874,Hotspot 874,bricklane
+875,783,-508,875,Hotspot 875,sugar mill
+876,802,470,876,Hotspot 876,bricklane
+877,-286,982,877,Hotspot 877,sugar mill
+878,-984,363,878,Hotspot 878,bricklane
+879,-726,158,879,Hotspot 879,sugar mill
+880,566,829,880,Hotspot 880,sugar mill
+881,-11,212,881,Hotspot 881,bricklane
+882,262,-428,882,Hotspot 882,bricklane
+883,-919,474,883,Hotspot 883,bricklane
+884,996,964,884,Hotspot 884,bricklane
+885,-222,948,885,Hotspot 885,sugar mill
+886,-798,212,886,Hotspot 886,sugar mill
+887,-924,490,887,Hotspot 887,sugar mill
+888,216,773,888,Hotspot 888,bricklane
+889,132,-864,889,Hotspot 889,sugar mill
+890,117,749,890,Hotspot 890,sugar mill
+891,46,422,891,Hotspot 891,sugar mill
+892,693,-687,892,Hotspot 892,bricklane
+893,124,585,893,Hotspot 893,sugar mill
+894,-221,-530,894,Hotspot 894,bricklane
+895,-362,-698,895,Hotspot 895,sugar mill
+896,-503,351,896,Hotspot 896,bricklane
+897,277,-682,897,Hotspot 897,sugar mill
+898,893,596,898,Hotspot 898,sugar mill
+899,-719,-853,899,Hotspot 899,sugar mill
+900,185,866,900,Hotspot 900,sugar mill
+901,-819,-292,901,Hotspot 901,bricklane
+902,-400,-876,902,Hotspot 902,sugar mill
+903,-726,-56,903,Hotspot 903,bricklane
+904,55,-214,904,Hotspot 904,bricklane
+905,-419,942,905,Hotspot 905,bricklane
+906,-276,652,906,Hotspot 906,bricklane
+907,-857,-856,907,Hotspot 907,sugar mill
+908,-754,574,908,Hotspot 908,bricklane
+909,989,561,909,Hotspot 909,bricklane
+910,-309,830,910,Hotspot 910,sugar mill
+911,-283,501,911,Hotspot 911,bricklane
+912,879,-455,912,Hotspot 912,sugar mill
+913,32,975,913,Hotspot 913,sugar mill
+914,-260,556,914,Hotspot 914,sugar mill
+915,-153,670,915,Hotspot 915,bricklane
+916,495,135,916,Hotspot 916,bricklane
+917,-771,-184,917,Hotspot 917,sugar mill
+918,-546,226,918,Hotspot 918,bricklane
+919,-763,120,919,Hotspot 919,sugar mill
+920,525,-492,920,Hotspot 920,bricklane
+921,-518,635,921,Hotspot 921,sugar mill
+922,583,-111,922,Hotspot 922,bricklane
+923,588,-707,923,Hotspot 923,bricklane
+924,256,-197,924,Hotspot 924,sugar mill
+925,-351,616,925,Hotspot 925,sugar mill
+926,903,-352,926,Hotspot 926,sugar mill
+927,-562,585,927,Hotspot 927,sugar mill
+928,-553,865,928,Hotspot 928,bricklane
+929,288,-292,929,Hotspot 929,bricklane
+930,725,-630,930,Hotspot 930,sugar mill
+931,-73,709,931,Hotspot 931,sugar mill
+932,328,-298,932,Hotspot 932,bricklane
+933,-813,-791,933,Hotspot 933,bricklane
+934,374,744,934,Hotspot 934,sugar mill
+935,-905,-919,935,Hotspot 935,sugar mill
+936,-361,501,936,Hotspot 936,bricklane
+937,-981,-976,937,Hotspot 937,sugar mill
+938,990,-756,938,Hotspot 938,bricklane
+939,999,511,939,Hotspot 939,bricklane
+940,-357,775,940,Hotspot 940,sugar mill
+941,-451,-484,941,Hotspot 941,sugar mill
+942,473,942,942,Hotspot 942,bricklane
+943,-231,-638,943,Hotspot 943,bricklane
+944,979,28,944,Hotspot 944,bricklane
+945,581,-375,945,Hotspot 945,sugar mill
+946,10,649,946,Hotspot 946,bricklane
+947,196,-622,947,Hotspot 947,sugar mill
+948,-253,152,948,Hotspot 948,sugar mill
+949,181,-116,949,Hotspot 949,sugar mill
+950,-890,-781,950,Hotspot 950,sugar mill
+951,150,-290,951,Hotspot 951,sugar mill
+952,-264,176,952,Hotspot 952,bricklane
+953,502,-345,953,Hotspot 953,bricklane
+954,-70,-181,954,Hotspot 954,sugar mill
+955,-425,-861,955,Hotspot 955,sugar mill
+956,100,428,956,Hotspot 956,sugar mill
+957,-55,693,957,Hotspot 957,bricklane
+958,944,887,958,Hotspot 958,bricklane
+959,-421,832,959,Hotspot 959,bricklane
+960,-117,460,960,Hotspot 960,sugar mill
+961,938,-830,961,Hotspot 961,bricklane
+962,-858,359,962,Hotspot 962,sugar mill
+963,615,-844,963,Hotspot 963,sugar mill
+964,958,-914,964,Hotspot 964,sugar mill
+965,466,193,965,Hotspot 965,bricklane
+966,6,757,966,Hotspot 966,bricklane
+967,-260,-355,967,Hotspot 967,bricklane
+968,660,554,968,Hotspot 968,bricklane
+969,260,523,969,Hotspot 969,sugar mill
+970,312,89,970,Hotspot 970,sugar mill
+971,217,618,971,Hotspot 971,bricklane
+972,-126,364,972,Hotspot 972,sugar mill
+973,287,416,973,Hotspot 973,sugar mill
+974,284,978,974,Hotspot 974,sugar mill
+975,1,-919,975,Hotspot 975,sugar mill
+976,-850,-290,976,Hotspot 976,bricklane
+977,916,-854,977,Hotspot 977,bricklane
+978,165,248,978,Hotspot 978,sugar mill
+979,-675,285,979,Hotspot 979,bricklane
+980,341,-113,980,Hotspot 980,bricklane
+981,956,-740,981,Hotspot 981,bricklane
+982,-734,-392,982,Hotspot 982,bricklane
+983,-389,-104,983,Hotspot 983,bricklane
+984,-166,-324,984,Hotspot 984,bricklane
+985,-704,641,985,Hotspot 985,bricklane
+986,288,484,986,Hotspot 986,sugar mill
+987,181,280,987,Hotspot 987,bricklane
+988,-346,158,988,Hotspot 988,bricklane
+989,-253,-908,989,Hotspot 989,sugar mill
+990,-429,735,990,Hotspot 990,sugar mill
+991,-77,422,991,Hotspot 991,bricklane
+992,-32,233,992,Hotspot 992,bricklane
+993,989,637,993,Hotspot 993,sugar mill
+994,-638,-274,994,Hotspot 994,sugar mill
+995,-168,-906,995,Hotspot 995,sugar mill
+996,-406,198,996,Hotspot 996,sugar mill
+997,-566,-456,997,Hotspot 997,bricklane
+998,639,268,998,Hotspot 998,bricklane
+999,-650,-19,999,Hotspot 999,sugar mill
